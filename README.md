@@ -1,4 +1,4 @@
-# COMP-431-Internet-Protocol-Project
+# COMP431 (Internet Protocol) Project
 
 This is the final project for COMP 431 (Internet Protocol Project). 
 
